@@ -259,7 +259,7 @@ const Home = () => {
               <CardImg variant="top" src={blogImg13} />
               <Card.Body>
                 <Card.Text>
-                 gfdgfgjhgdfddfhbhfgffddfhjhkhjf
+                 gfdgfgjhgdfddfhbhfghjffddfhjhkhjf
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
