@@ -166,7 +166,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg7} />
               <Card.Body>
                 <Card.Text>
-                 dxgvjhvgfsfcvnvcgxdsgxcvnvngxfgjhbkkdkfsfhw
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -179,7 +182,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg8} />
               <Card.Body>
                 <Card.Text>
-                fchgvjbhgcvcvncfdzfchgjysafchm,kgjydgvj,bv
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -192,7 +198,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg9} />
               <Card.Body>
                 <Card.Text>
-                  fdchgjbkjvgfxfcnbncxfdxgnbjb
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -205,7 +214,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg10} />
               <Card.Body>
                 <Card.Text>
-                 gfchvbbhgxfzxvbvhmhjfhvdghfjjm
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -220,7 +232,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg11} />
               <Card.Body>
                 <Card.Text>
-                 hdhjdoohkdjshddkhdkdkhdjdjjdjjdjhd
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -233,7 +248,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg12} />
               <Card.Body>
                 <Card.Text>
-                gfchggjhjfgjhjguyhkgjfujg
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -246,7 +264,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg2} />
               <Card.Body>
                 <Card.Text>
-                  fdhgjhghfsfdsghgiuyuyserasfghjkjkjguyfhg
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
@@ -259,7 +280,10 @@ const Home = () => {
               <CardImg variant="top" src={blogImg13} />
               <Card.Body>
                 <Card.Text>
-                 gfdgfgjhgdfddfhbhfghjffddfhjhkhjf
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
                 </Card.Text>
                 <Card.Footer>
                   <small className="text-muted">Last updated 3 mins ago</small>
